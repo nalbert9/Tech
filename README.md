@@ -1,6 +1,6 @@
 # Projects Repository
 
-Welcome to this projects repository! This repository contains a collection of projects that have been showcased on Medium articles. 
+Welcome to this project's repository! This repository contains a collection of projects that have been showcased on Medium articles. 
 Each project highlights different concepts, technologies, and creative ideas.
 
 ## Table of Contents
@@ -8,7 +8,6 @@ Each project highlights different concepts, technologies, and creative ideas.
 - [Project 1: Title](#project-1-title)
 - [Project 2: Title](#project-2-title)
 - [Project 3: Title](#project-3-title)
-- [License](#license)
 
 ## Project 1: Title
 
